@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsx src/index.ts",
-    "check": "tsc --noEmit src/index.ts"
+    "check": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
